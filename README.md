@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-	Desafio Americanas 4.0
+	Confia Me - Ame Americanas
 </h3>
 
 <p align="center">
