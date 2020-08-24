@@ -2,7 +2,7 @@
 	<img
 		width="300"
 		alt="Americanas"
-		src="https://www.yama.com.br/wp-content/uploads/2018/04/Logo-americanas.png">
+		src="https://www.yama.com.br/wp-content/uploads/2018/04/Logo-americanas.pnga">
 </h1>
 
 <h3 align="center">
@@ -10,21 +10,15 @@
 </h3>
 
 <p align="center">
-	<img alt="App" src="https://github.com/Victor19Rodrigues/Hackathon/blob/master/assets/app.png" height="400">
+	<img alt="App" src="https://github.com/Victor19Rodrigues/Hackathon/blob/master/assets/app.pnga" height="400">
 </p>
 
 ## Desafio
 
-- **Como tornar a experiência de compras mais fluída integrando lojas físicas e virtuais?**
-- **Como estimular o uso do app para dar suporte as compras físicas?** 
-- **Como estimular o uso contínuo do aplicativo?**
+
 
 ## Overview
-
-- **Peça a opinião de alguém que já comprou!** Ao acessar o Aplicativo, o usuário poderá consultar alguém que já comprou. Além de trazer uma interação entre usuários, dados importantes sobre o processo de escolha podem ser avaliados.
-- **Ajude um comprador com a sua opinião!** O Americanas 4.0, reconhece que você, melhor do que ninguém pode falar sobre um item que comprou. É por isso que incentivamos você a ajudar compradores no nosso universo a não ter dúvidas quanto a escolha.
-- **Se for daqueles que gosta de ir a loja física!** Não é porque você prefere ir a loja física que precisa ter uma experiência tradicional como a maioria das lojas. 
-- **A melhor experiência, no Americanas 4.0!** É daqueles que ama um de desconto? Agora você tem uma tela exclusiva e pode favoritar produtos, permitindo acompanhar atualizações de preços.
+mpanhar atualizações de preços.
 
 ## Tecnologias 
 
