@@ -1,52 +1,48 @@
-<h1 align="center">
-	<img
-		width="300"
-		alt="Americanas"
-		src="https://www.yama.com.br/wp-content/uploads/2018/04/Logo-americanas.pnga">
-</h1>
+<img src="./assets/banner.jpg" alt="AME - Nova Funcionalidade: CONFIA" />
 
-<h3 align="center">
-	Confia Me - Ame Americanas
-</h3>
+# <center>Confia - AME</center>
 
-<p align="center">
-	<img alt="App" src="https://github.com/Victor19Rodrigues/Hackathon/blob/master/assets/app.pnga" height="400">
-</p>
+## 💡 Proposta
+<i>Solução para compras e vendas fiadas e valorização dos negócios locais com maior utilização da Ame.</i>
+- Digitalização dos clientes registrados em caderninhos
+- Garantia de pagamento a partir de empréstimos e outras soluções da AME
+  
+### Potencializando o pequeno empreendedor:
+- Adia o pagamento e permite a compra
+- Vende confiado sem prejuízo
 
-## Desafio
+<img src="./assets/flow.jpg" alt="Fluxo da solução" />
+
+<hr />
+
+## 🤝 Diferenciais
+### Integração com outros produtos AME
+- <b>Empréstimo</b>: Solução para pagamento se não houver saldo na AME
+- <b>AME PRO</b>: Gestão das vendas confiadas e cobrança
+
+### Benefícios para todos
+- <b>Shopper</b>
+  - Prazo para pagamento
+  - Garantia de compra não burocratizada
+- <b>Seller</b>
+  - Controle das vendas confiadas
+  - Fidelização de clientes
+  - Transparência nos registros
+  - Redução da inadimplência
+- <b><i>AME</i></b>
+  - Aumento da base de Shoppers e Sellers
+  - Percepção sobre perfil dos clientes para propor novos produtos
+  - Aumento de frequência de uso
 
 
+## ⚙ Tecnologias
 
-## Overview
-mpanhar atualizações de preços.
+- [React](https://reactjs.org/)
+  
 
-## Tecnologias 
-
-:hammer: As seguintes tecnologias foram usadas:
-
-### Mobile
-
-- [Expo](https://docs.expo.io/)
-- [React Native](https://facebook.github.io/react-native/)
-- [react-native-gesture-handler](https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html)
-- [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-- [react-navigation](https://reactnavigation.org/)
-- [expo-barcode-scanner](https://docs.expo.io/versions/latest/sdk/bar-code-scanner/)
-
-Para rodar o aplicativo, basta instalar o [Expo](https://docs.expo.io/) seguindo a documentação. É recomendado a instalação do [Node.js](https://nodejs.org/) versão LTS ou mais recente. [Yarn package manager](https://yarnpkg.com/) é também recomendado.  
-
-```bash
-# Clone this repository
-$ git clone https://github.com/Victor19Rodrigues/Hackathon.git
-
-# Install dependencies
-$ yarn
-
-# Run the Mobile
-$ yarn start
-```
-
----
-
-Made with :heart: by Everton Ferreira, Lucas, Samuel Murta, Taynan Penini e Victor Rodrigues. :smiley: 
+ ## 💪 Time
+  - Daniel Leite (Designer)  [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
+  - Léo Morais (Business) [LinkedIn](https://www.linkedin.com/in/leohmoraes/)
+  - Everton Ferreira (Dev) [LinkedIn](https://www.linkedin.com/in/evertonferreira96/)
+  - Sávio Sucar (Marketing) [Linkedin](https://www.linkedin.com/in/diagosucar/)
+  - Vinicius Passos (Dev) [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
